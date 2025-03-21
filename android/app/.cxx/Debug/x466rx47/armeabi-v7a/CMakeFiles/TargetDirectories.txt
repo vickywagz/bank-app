@@ -1,0 +1,2 @@
+C:/projects/bank_app/android/app/.cxx/Debug/x466rx47/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/projects/bank_app/android/app/.cxx/Debug/x466rx47/armeabi-v7a/CMakeFiles/rebuild_cache.dir

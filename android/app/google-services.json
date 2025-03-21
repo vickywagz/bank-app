@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527821342835",
+    "project_id": "fyn-bank-app",
+    "storage_bucket": "fyn-bank-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527821342835:android:d1dc493c02bcedcac6c206",
+        "android_client_info": {
+          "package_name": "com.example.bank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzWNtbJxT4KnYdN-EFZZbiXa73fczHlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
