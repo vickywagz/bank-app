@@ -1,16 +1,31 @@
-# bank_app
+# Flutter Banking App 
 
-A new Flutter project.
+A simple Flutter banking app that allows users to sign in with Google, send and receive money between demo accounts, and view real-time balance updates.
+
+##  Features
+
+* Google Sign-In authentication
+* Send & receive money between demo users
+* Real-time balance updates via Firestore
+* Clean and minimal UI
+
+## Tech Stack
+
+* Flutter (Dart)
+* Firebase Firestore (Database)
+* Provider (State Management)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
+ * git clone https://github.com/yourusername/flutter-banking-app.git
+2. Install dependencies:
+ * flutter pub get
+3. Run the app:
+ * flutter run
 
-A few resources to get you started if this is your first Flutter project:
+##  Future Improvements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Transaction history
+* Enhanced security features
+* User profile management
